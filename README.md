@@ -9,3 +9,5 @@ This is a test for GitHub
 col 1 | col 2
 ---|---
 item 1 | item 2
+
+Hello from test branch
